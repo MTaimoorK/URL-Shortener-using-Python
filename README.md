@@ -18,7 +18,7 @@ This is a simple URL Shortener GUI application using Tkinter and pyshorteners.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/MTaimoorK/url-shortener.git
    cd url-shortener
 
 ## Usage
