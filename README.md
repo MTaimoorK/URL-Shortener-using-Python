@@ -1,4 +1,4 @@
-# URL Shortener
+# _URL Shortener Application_
 
 This is a simple URL Shortener GUI application using Tkinter and pyshorteners.
 
@@ -28,6 +28,6 @@ This is a simple URL Shortener GUI application using Tkinter and pyshorteners.
 - The shortened URL will be displayed in the "Copy URL" entry.
 - A confirmation message will appear below the entries.
 
-##Contributing
+## Contributing
 
 Feel free to contribute to this project. If you have suggestions or find issues, please open an issue or submit a pull request.
